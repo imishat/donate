@@ -1,0 +1,54 @@
+.see-form{
+    font-size: 20px;
+    font-weight: 700;
+    color: wheat;
+    text-align: center;
+    justify-content: center;
+    background-image: url(./images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    background-image: linear-gradient(black wheat gray);
+    
+}
+.btn{
+    text-decoration: none;
+    color:wheat;
+    padding: 10px;
+    border-radius: 2px;
+    background-color: rgb(239, 18, 18);
+    margin-bottom: 10px;
+}
+.about{
+    text-align: center;
+    justify-content: center;
+    font-weight: 700;
+}
+.tk{
+    text-align: center;
+    justify-content: center;
+    padding: 80px;
+    
+    
+}
+.much{
+    padding: 50px;
+    margin-bottom: 50px;
+}
+.red{
+    padding: 50px;
+    color: rgb(198, 31, 31);
+    box-shadow: 10px 0px 14px gray;
+}
+.other{
+    margin-bottom: 10px;
+
+}
+.plan{
+    margin-top: 50px;
+}
+.item{
+    display: flex;
+    width: 30%;
+}
