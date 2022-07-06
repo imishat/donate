@@ -9,7 +9,8 @@
     background-size: cover;
     background-position: center;
     height: 80vh;
-    background-image: linear-gradient(black wheat gray);
+    background: linear-gradient(rgb(217, 23, 23) rgb(194, 191, 191) gray);
+
     
 }
 .btn{
@@ -54,6 +55,7 @@
     padding: 50px;
     color: rgb(198, 31, 31);
     box-shadow: 10px 0px 14px rgb(22, 21, 21);
+    border-radius: 2px;
 }
 .other{
     margin-bottom: 10px;
@@ -72,12 +74,14 @@
     box-shadow: 3opx 24px 25px gray;
     background-color: rgb(236, 23, 23);
     color: rgb(18, 17, 17);
+    border-radius: 5px;
 }
 .item3{
     box-shadow: 10px 10px 16px gray;
     margin-left: 25px;
     margin-right: 25px;
     background-color: #FFF0F5;
+    border-radius: 5px;
 }
    .item4{
 
@@ -85,6 +89,7 @@
     margin-left: 25px;
     margin-right: 25px;
     background-color:#FFE4B5 ;
+    border-radius: 5px;
 }
 .item5{
 
@@ -92,6 +97,7 @@
     margin-left: 25px;
     margin-right: 25px;
     background-color:#E0FFFF;
+    border-radius: 2px;
 }
 .m{
     display: flex;
@@ -111,6 +117,7 @@
     font-size: 15px;
     margin-left: 5px;
     box-shadow: 10px 10px 16px gray;
+    border-radius: 5px;
 
     
 }
@@ -133,11 +140,13 @@
     font-size: 15px;
     margin-left: 50px;
     box-shadow: 10px 10px 16px gray;
+    border-radius: 5px;
 
 }
 .top:hover{
     box-shadow: 30px 25px 25px rgb(220, 8, 8);
     background-color: rgb(21, 20, 20);
+    border-radius: 5px;
 
 }
 .item11:hover{
@@ -150,5 +159,23 @@
 }
 .gren:hover{
     box-shadow: 30px 25px 25px pink;
+    border-radius: 5px;
 }
-    
+.part1{
+color: chartreuse;
+  font-family: cursive;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 100px;
+
+}
+.part2{
+    box-shadow: 25px 25px 30px gray;
+    display: inline-block;
+    margin-bottom: 150px;
+    border-radius: 5px;
+}
+footer h1{
+    color: tomato;
+    background-color: black;
+}
