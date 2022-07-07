@@ -39,6 +39,7 @@
     text-align: center;
     justify-content: center;
     font-weight: 700;
+    margin-top: 50px;
 }
 .tk{
     text-align: center;
@@ -47,10 +48,10 @@
     
     
 }
-.tk :hover{
 
 
-}
+
+
 .much{
     padding: 21px;
     margin-bottom: 50px;
@@ -74,18 +75,16 @@
     margin-right: 20px;
     margin-bottom: 20px;
 }
-.item2:hover{
-    box-shadow: 3opx 24px 25px gray;
-    background-color: rgb(236, 23, 23);
-    color: rgb(18, 17, 17);
-    border-radius: 5px;
-}
+
 .item3{
     box-shadow: 10px 10px 16px gray;
     margin-left: 25px;
     margin-right: 25px;
     background-color: #FFF0F5;
     border-radius: 5px;
+}
+.item4 img{
+    background-position: left;
 }
    .item4{
 
@@ -163,6 +162,7 @@ color: rgb(60, 61, 59);
     display: inline-block;
     margin-bottom: 150px;
     border-radius: 5px;
+    background-color: antiquewhite;
 }
 footer h1{
     color: tomato;
